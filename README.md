@@ -1,2 +1,2 @@
-###  64 bit shellcodes
-Here will be my collection of shellcodes and binary exploits written entirely by me
+###  64 bit Assembly
+Here I'm just practicing with assembly
