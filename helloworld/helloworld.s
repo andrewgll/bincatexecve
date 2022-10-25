@@ -1,3 +1,4 @@
+; simplest helloworld in asm, I should also write it in shellcode without NULL-bytes
 global      _start
 section     .data
 message db  "Hello World!",0xa
